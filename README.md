@@ -7,7 +7,7 @@
 
  ## This is the pucture description the site.
  
-You can see the page by clicking on [Smart]( https://mahmoudmohmedaboarab.github.io/Distance-Learning/)
+You can see the page by clicking on [Distance-Learning]( https://mahmoudmohmedaboarab.github.io/Distance-Learning/)
 
 
 ### The description :
