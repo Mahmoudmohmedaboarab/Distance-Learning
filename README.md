@@ -1,9 +1,14 @@
 # Distance-Learning📔
 
+ ## 📸Here is a photo about my site:
+ 
+ <img src ="img/mockuper.png" width="800px" heighet="800px">
+
 
  ## This is the pucture description the site.
  
 You can see the page by clicking on [Smart]( https://mahmoudmohmedaboarab.github.io/Distance-Learning/)
+
 
 ### The description :
 
@@ -29,10 +34,7 @@ You can see the page by clicking on [Smart]( https://mahmoudmohmedaboarab.github
 - Responsive to all screens.
 
 
-### :fire:Desinger:
+### 🔥:Desinger:
 
 - Mahmoud Abo Arab
 
- ## 📸Here is a photo about my site:
- 
- <img src ="img/mockuper.png" width="300px" heighet="300px">
